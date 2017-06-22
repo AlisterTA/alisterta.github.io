@@ -15,7 +15,26 @@ layout: default
 
   {% include disqus.html %}
   
-  <!-- Addthis -->
+
+</article>
+{% if site.addthisId != "" %}
+
+	<!-- Addthis -->
 	<div class="addthis_sharing_toolbox mt"></div>
 	<script async src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-{{ site.addthisId }}"></script>
-</article>
+
+{% endif %}
+
+<!-- If disqusUsername declared -->
+{% if site.disqusUsername != "" %}
+
+	<!-- Full width -->
+	<div class="full">
+
+		<!-- Disqus -->
+		<div id="disqus_thread" class="mt mb"></div>
+		<script async src="//{{ site.disqusUsername }}.disqus.com/embed.js"></script>
+
+	</div><!-- .full -->
+
+{% endif %}
