@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
-	direction: rtl;
+  direction: rtl;
   color: $darkGray;
 }
 
@@ -32,10 +32,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: tahoma;
   color: $darkerGray;
   font-weight: bold;
-
+ direction: rtl;
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
