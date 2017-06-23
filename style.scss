@@ -67,11 +67,15 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+
 	direction:rtl;
-	font-size:12px;
-	line-height: 130%;
+    line-height: 1.5;
+	
 	text-align:justify;
+	font-size: 0.9rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: justify;
 }
 
 a {
