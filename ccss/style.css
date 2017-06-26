@@ -117,11 +117,12 @@ p {
   direction: rtl;
   line-height: 1.5;
   text-align: justify;
-  font-size: 0.9rem;
+  font-size: 13px;
   margin-top: 0;
   margin-bottom: 1rem;
   text-align: justify;
   font-family:tahoma;
+  line-height: 30px;
 }
 
 a {
