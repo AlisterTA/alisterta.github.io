@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I now consider myself to be at the beginning of the beginning of making something serious.” —Vincent van Gogh 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[My twitter account](https://www.twitter.com/Alister55318776)
