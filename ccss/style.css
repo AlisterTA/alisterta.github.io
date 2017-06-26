@@ -10,7 +10,9 @@
     font-style:normal;
 	font-weight:normal;
 }
-
+.post-meta {
+    direction: ltr;
+}
 /***************/
 /* MEYER RESET */
 /***************/
