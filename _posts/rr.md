@@ -5,19 +5,19 @@ tags: [گوگل, ام ای تی, شبکه عصبی]
 ---
 تاریخچه رقابت [ImageNet](http://www.image-net.org/)
 
-قدرت این شبکه ها در سال 1989 ، هنگامی که ]یان لیکون و  همکارانش ارقام دست نویس را با دقت 95 درصد طبقه بندی کردند(yann.lecun.org/exdb/publis/pdf/lecun-89e.pdf)[ نشان داده شد. سال 2012 اولین سالی بود که شبکه های عصبی برجسته تر شدند . در این سال [الکس کریژوسکی https://www.cs.toronto.edu/~kriz  [و جفری هینتون (بخوانید: [مردی که تورنتو را به سرچشمه تکنولوژی پیشرفته تبدیل کرد (https://alisterta.github.io/%D9%85%D8%B1%D8%AF%DB%8C-%DA%A9%D9%87-%D8%AA%D9%88%D8%B1%D9%86%D8%AA%D9%88-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B3%D8%B1%DA%86%D8%B4%D9%85%D9%87-%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%DA%A9%D8%B1%D8%AF/)
+قدرت این شبکه ها در سال 1989 ، هنگامی که یان لیکون و  همکارانش (yann.lecun.org/exdb/publis/pdf/lecun-89e.pdf)[ارقام دست نویس] را با دقت 95 درصد طبقه بندی کردند نشان داده شد. سال 2012 اولین سالی بود که شبکه های عصبی برجسته تر شدند . در این سال [الکس کریژوسکی https://www.cs.toronto.edu/~kriz  [و جفری هینتون (بخوانید: [مردی که تورنتو را به سرچشمه تکنولوژی پیشرفته تبدیل کرد (https://alisterta.github.io/%D9%85%D8%B1%D8%AF%DB%8C-%DA%A9%D9%87-%D8%AA%D9%88%D8%B1%D9%86%D8%AA%D9%88-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B3%D8%B1%DA%86%D8%B4%D9%85%D9%87-%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%DA%A9%D8%B1%D8%AF/)
  )از آنها برای پیروز شدن در رقابت ImageNet  ستفاده کردند. کاهش خطا از 26درصد به 15 درصد یک پیشرفت عظیم در آن زمان بود . از آن زمان به بعد بزرگترین شرکت های بزرگ دنیا اعم از فیس بوک،گوگل و ... از یادگیری عمیق در اکثر سرویس های خود استفاده کردند. به عنوان مثال شرکت فیس بوک از شبکه های عصبی عمیق برای برچسب گذاری عکس به صورت خودکار ، شرکت گول برای جستجوی عکس و آمازون برای پیشنهاد کالا به کاربران استفاده میکنند.  در شکل ذیل افزایش یادگیری عمیق در سرویس های گوگل تا سال 2015 نمایش داده شده است .
  
 ![_config.yml]({{ site.baseurl }}/images/5/1.png)
 
 معماری الکس نت
-اولین شبکه عصبی کانولوشن که در چالش[ILSVRC-2012](http://www.image-net.org/challenges/LSVRC/2012/) اعمال شد [AlexNet](http://dl.acm.org/citation.cfm?id=2999257)بود ، این معماری داده های پایگاه داده ImageNet که در 1000 گروه طبقه بندی شده بودند را با خطای 15 درصد طبقه بندی کرد. این معماری شامل 5 لایه کانولوشن ادغام شده با لایه های [max-pooling] (https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer)و سه لایه تماما متصل است.
+اولین شبکه عصبی کانولوشن که در چالش[ILSVRC-2012](http://www.image-net.org/challenges/LSVRC/2012/) اعمال شد [AlexNet](http://dl.acm.org/citation.cfm?id=2999257)بود ، این معماری داده های پایگاه داده ImageNet که در 1000 گروه طبقه بندی شده بودند را با خطای 15 درصد طبقه بندی کرد. این معماری شامل 5 لایه کانولوشن ادغام شده با لایه های [max-pooling](https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer)و سه لایه تماما متصل است.
 ![_config.yml]({{ site.baseurl }}/images/5/2.png)
 
 نکات اصلی:
 
 1.	این معماری توسط دادهای پایگاه داده ImageNet آموزش داده شد این دیتا بیس شامل 15 میلیون عکس در 22 هزار گروه است.
-2.	از تابع فعال ساز [ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)) استفاده شد (برای کاهش زمان آموزش)این تابع چندین برابر از توابع فعار ساز [tanh](https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent)و [sigmoid] (https://en.wikipedia.org/wiki/Sigmoid_function)سریعتر است
+2.	از تابع فعال ساز [ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)) استفاده شد (برای کاهش زمان آموزش)این تابع چندین برابر از توابع فعار ساز [tanh](https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent)و [sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function)سریعتر است
 3.	از تکنیک [data augmentation](https://arxiv.org/pdf/1609.08764.pdf)استفاده شد.شامل: image translations، horizontal  reflectionsو patch extractions
 4.	پیاده سازی لایه [Droupout](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) برای مبارزه با بیش برارزش شدن نمونه های آموزشی
 5.	از [mini-batch stochastic gradient descent](https://stats.stackexchange.com/questions/49528/batch-gradient-descent-versus-stochastic-gradient-descent) با مقادیر مشخص momentum و weight decay برای آموزش شبکه استفاده شد
