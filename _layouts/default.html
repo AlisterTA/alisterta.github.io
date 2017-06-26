@@ -9,13 +9,33 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/ccss/style.css" />
+	    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/ccss/w3.css" />
+		    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/ccss/w3mobile.css" />
+			    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/ccss/w3-theme-teal.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
+  <nav class="w3-sidebar w3-bar-block w3-card" id="mySidebar">
+<div class="w3-container w3-theme-d2">
+  <span onclick="closeSidebar()" class="w3-button w3-display-topright w3-large">X</span>
+  <br>
+  <div class="w3-padding w3-center">
+    <img class="w3-circle" src="{{ site.baseurl }}/image/fav.png" alt="avatar" style="width:75%">
+  </div>
+</div>
+<a class="w3-bar-item w3-button" href="{{ site.baseurl }}/">Blog</a>
+<a class="w3-bar-item w3-button" href="{{ site.baseurl }}/about">About</a>
+
+</nav>
+  <header class="w3-bar w3-card w3-theme">
+  <button class="w3-bar-item w3-button w3-xxxlarge w3-hover-theme" onclick="openSidebar()">&#9776;</button>
+  <h1 class="w3-bar-item">DⒺⒺP Learning</h1>
+</header>
+
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -47,5 +67,20 @@
     </div>
 
     {% include analytics.html %}
+	
+	<footer class="w3-container w3-theme w3-margin-top">
+  <h3></h3>
+</footer>
+
+<script>
+closeSidebar();
+function openSidebar() {
+    document.getElementById("mySidebar").style.display = "block";
+}
+function closeSidebar() {
+    document.getElementById("mySidebar").style.display = "none";
+}
+</script>
+
   </body>
 </html>
