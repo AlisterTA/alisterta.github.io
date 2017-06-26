@@ -129,13 +129,19 @@ h4 {
 p {
   direction: rtl;
   text-align: justify;
-
   margin-top: 0;
   margin-bottom: 1rem;
   text-align: justify;
- font-family:BYekan,tahoma;  
-font-size:13px; 
   line-height: 30px;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 15px;
+    line-height: normal;
+    font-family: BYekan, tahoma, arial;
 }
 
 a {
