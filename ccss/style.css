@@ -309,6 +309,7 @@ nav a {
 }
 .post .comments {
   margin-top: 10px;
+  font-family:tahoma;
 }
 .post .read-more {
   text-transform: uppercase;
