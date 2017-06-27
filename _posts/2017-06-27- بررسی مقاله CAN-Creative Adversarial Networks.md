@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CAN(Creative Adversarial Networks) بررسی مقاله
+title: بررسی مقاله CAN-Creative Adversarial Networks 
 ---
 مقاله ای که امروز بررسی خواهیم کرد [Creative Adversarial Network](https://arxiv.org/abs/1706.07068) است ، مقاله ای که شش روز پیش (21 ژوئن) منتشر شد.
 
