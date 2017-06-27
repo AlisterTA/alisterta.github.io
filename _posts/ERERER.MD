@@ -1,9 +1,9 @@
-مقاله ای که امروز بررسی خواهیم کرد [Creative Adversarial Network](https://arxiv.org/abs/1706.07068 است ، مقاله ای که شش روز پیش (21 ژوئن) منتشر شد.
+مقاله ای که امروز بررسی خواهیم کرد [Creative Adversarial Network](https://arxiv.org/abs/1706.07068) است ، مقاله ای که شش روز پیش (21 ژوئن) منتشر شد.
 
 اخیرا  [GANS](https://arxiv.org/abs/1406.2661) در ایجاد محتوای جذاب بسیار موفق بوده اند شبکه هایی که در گام اول کمی انتزاعی و از نظر پیاده سازی مشکل به نظر میرسند.قبل از وارد شدن به مفاهیم ریاضی و جزییات شنیدن خلاصه ای گفتگوی [Goodfellow](https://scholar.google.ca/citations?user=iYN86KEAAAAJ) با [The AI podcast](https://blogs.nvidia.com/blog/2017/06/08/ai-podcast-an-argument-in-a-bar-led-to-the-generative-adversarial-networks-revolutionizing-deep-learning/) خالی از لطف نیست ! پیشنهاد میکنم این پادکست را دنبال کنید، برنامه ای که هر هفته گفتگویی کوتاه با یکی از دانشمندان علوم داده انجام میدهد و جدید ترین تحولات مورد بررسی قرار میگیرند.این پادکست از طریق [iTunes](https://itunes.apple.com/us/podcast/the-ai-podcast/id1186480811?mt=2&adbsc=social_20161220_68874946&adbid=811257941365882882&adbpl=tw&adbpr=61559439) و  [Soundcloud](https://soundcloud.com/theaipodcast) قابل استریم است.
 
-این گفتگو با یه شوخی شروع میشه، فردی به یک بار میرود و شروع به بحث و گفتگو با دوستانش میکند، در نهایت این گفتگو به ایده انقلابی با نام GAN ختم میشود، ایده ای که یان لیکون از اون به عنوان جالب ترین ایده ۲۰ سال اخیر نام می‌برد.
-https://www.youtube.com/watch?v=IbjF5VjniVE
+این گفتگو با یه شوخی شروع میشه، فردی به یک بار میرود و شروع به بحث و گفتگو با دوستانش میکند، در نهایت این گفتگو به ایده انقلابی با نام GAN ختم میشود، ایده ای که یان لیکون از اون به عنوان [جالب ترین ایده ۲۰ سال اخیر](https://www.youtube.com/watch?v=IbjF5VjniVE
+) نام می‌برد.
 
 در این قسمت Goodfellow در مورد یکی از مشکلات و موانع اصلی یادگیری عمیق صحبت می‌کنه که نیاز آن به حجم زیادی داده ها برچسب دار برای آموزش است که نیاز به ساعت ها کار توسط انسان است به عنوان مثال :
 https://www.mturk.com/mturk/welcome?con=&dom=pscau&src=syndication
