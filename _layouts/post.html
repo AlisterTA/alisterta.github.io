@@ -8,6 +8,8 @@ layout: default
   Tag{% if post.tags.size > 1 %}s{% endif %}:
   {{ post.tags | sort | join: ", " }}
 {% endif %}
+	
+	p class="summary">{ page.content | reading_time }}</p>
   <div class="entry">
     {{ content }}
   </div>
