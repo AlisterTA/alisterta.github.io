@@ -41,15 +41,15 @@
 </header>
 
 
-    <div id="main" role="main" class="container">
-	 <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+{% for post in paginator.posts %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
     <span class="date">{{ post.date }}</span>
   </p>
   <div class="content">
     {{ post.content }}
   </div>
-    </div>
+{% endfor %}
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
