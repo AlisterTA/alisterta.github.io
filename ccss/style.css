@@ -13,6 +13,14 @@
 .post-meta {
     direction: ltr;
 }
+.reading-time{
+	direction: rtl;
+    /* float: right; */
+    display: block;
+    /* position: fixed; */
+    font-family: BYekan, tahoma, arial;
+    color: gray;
+}
 .pagination
 {
 	    text-align: center;
