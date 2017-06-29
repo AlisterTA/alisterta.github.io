@@ -306,7 +306,6 @@ nav {
 @media screen and (max-width: 640px) {
   nav {
     float: none;
-    margin-top: 9px;
     display: block;
     font-size: 16px;
   }
