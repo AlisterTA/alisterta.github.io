@@ -18,28 +18,17 @@ layout: default
   {% endfor %}
  </div>
 
-{% if paginator.total_pages > 1 %}
+<!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    <a href="{{ paginator.previous_page_path }}" class="previous">صغحه قبل</a>
   {% else %}
-    <span>&laquo; صفحه قبل</span>
+    <span class="previous">صغحه قبل</span>
   {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
+  <span class="page_number ">صفحه: {{ paginator.page }} از {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path }}" class="next">صفحه بعد<</a>
   {% else %}
-    <span>صفحه بعد &raquo;</span>
+    <span class="next ">صفحه بعد</span>
   {% endif %}
 </div>
-{% endif %}
