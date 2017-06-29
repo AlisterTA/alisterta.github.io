@@ -41,9 +41,7 @@
 </header>
 
 
-  <div id="main" role="main" class="container">	
-
-
+ 
 	<!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
@@ -54,7 +52,7 @@
     {{ post.excerpt }}
   </div>
 {% endfor %}
-	    </div>
+	  
 
 <!-- Pagination links -->
 <div class="pagination">
