@@ -49,11 +49,13 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+timezone:           Asia/Tehran
+permalink:          /:year-:month-:day/:title/
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-
-permalink: /:title/
+paginate:           5
+paginate_path:      /page:num/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
@@ -84,4 +86,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-paginate: 4
