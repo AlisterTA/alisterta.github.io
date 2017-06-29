@@ -16,6 +16,15 @@
 .pagination
 {
 	    text-align: center;
+		font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 15px;
+    line-height: normal;
+    font-family: BYekan, tahoma, arial;
 }
 /***************/
 /* MEYER RESET */
@@ -39,15 +48,7 @@ time, mark, audio, video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
-	font-style: normal;
-    font-variant-ligatures: normal;
-    font-variant-caps: normal;
-    font-variant-numeric: normal;
-    font-weight: normal;
-    font-stretch: normal;
-    font-size: 15px;
-    line-height: normal;
-    font-family: BYekan, tahoma, arial;
+
 }
 
 article, aside, details, figcaption, figure,
