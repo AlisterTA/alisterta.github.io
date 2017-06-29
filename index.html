@@ -25,7 +25,9 @@ layout: default
   {% else %}
     <span class="previous">صغحه قبل</span>
   {% endif %}
+  <span>|</span>
   <span class="page_number ">(صفحه: {{ paginator.page }} از {{ paginator.total_pages }})</span>
+  <span>|</span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">صفحه بعد</a>
   {% else %}
