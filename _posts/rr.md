@@ -66,6 +66,8 @@ g(x)=x^3
 
 کد این مقاله در این لینک(https://github.com/titu1994/Snapshot-Ensembles
 ) موجود است و روش استفاده از آن به آسانی در شبه کد ذیر توضح داده شده است:
+
+```python
 from snapshot import SnapshotCallbackBuilder
 
 M = 5 # number of snapshots
@@ -78,7 +80,7 @@ snapshot = SnapshotCallbackBuilder(T, M, alpha_zero)
 model = Sequential() OR model = Model(ip, output) # Some model that has been compiled
 
 model.fit(trainX, trainY, callbacks=snapshot.get_callbacks(model_prefix=model_prefix))
-
+```
 
 # مقاله دوم: افزایش سرعت آموزش با Freeze کردن به تدریج لایه ها (https://arxiv.org/pdf/1706.04983.pdf)
 
