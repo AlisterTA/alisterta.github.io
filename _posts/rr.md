@@ -79,7 +79,8 @@ model = Sequential() OR model = Model(ip, output) # Some model that has been com
 
 model.fit(trainX, trainY, callbacks=snapshot.get_callbacks(model_prefix=model_prefix))
 
-#مقاله دوم: افزایش سرعت آموزش با Freeze کردن به تدریج لایه ها (https://arxiv.org/pdf/1706.04983.pdf)
+
+# مقاله دوم: افزایش سرعت آموزش با Freeze کردن به تدریج لایه ها (https://arxiv.org/pdf/1706.04983.pdf)
 
 نویسندگان این مقاله متدی را پیشنهاد میدهند که سرعت یادگیری را Freeze کردن لایه ها افزایش میدهند. راههای متفاوتی بدین منظور در این مقاله شرح داده شده است که باعث افزایش سرعت یادگیری و افزایش جزیی دقت میشود.
 
