@@ -22,7 +22,7 @@ title: معماری MobileNets و Xception -بخش اول-
 2-	فشرده سازی پارامتر ها
 به عنوان مثال میتوان به مقاله های مثل [BinaryConnect](https://arxiv.org/abs/1511.00363)،[Binarized Neural Networks](https://arxiv.org/abs/1602.02830)،[EIE](https://arxiv.org/abs/1602.01528)،[Deep Compression](https://arxiv.org/abs/1510.00149) و [Compressing Deep Convolutional Networks using Vector Quantization](https://arxiv.org/abs/1412.6115) اشاره کرد.
 
-در واقع مقالات زیادی در چند اخیر در این زمینه منتشر شده است که تعدادی از آنها را به عنوان مرجع در بالا آوردم.
+در واقع مقالات زیادی در چند سال اخیر در این زمینه منتشر شده است که تعدادی از آنها را به عنوان مرجع در بالا آوردم.
 
 هنگامی که مقاله GoogLeNet در سال 2014 منتشر شد شامل ماژول هایی Inception مثل شکل زیر بود:
 
