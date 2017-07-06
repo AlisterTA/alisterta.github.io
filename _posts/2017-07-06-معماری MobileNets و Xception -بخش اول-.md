@@ -1,6 +1,6 @@
 ---
 layout: post
-title: معماری MobileNetsو Xception -بخش اول-
+title: معماری MobileNets و Xception -بخش اول-
 ---
 مقاله ای که اخیرا توسط گوگل منتشر شد یک معماری جدید است به نام MobileNets که برای [سیستم هایی تعبیه شده](https://en.wikipedia.org/wiki/Embedded_system) مثل موبایل بهینه سازی شده است. در هسته اصلی این معماری از کانولوشن بر حسب کانال تفکیک پذیر (depthwise separable convolution) برای ساخت یک شبکه عصبی سبک استفاده شده است .
 
