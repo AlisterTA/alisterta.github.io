@@ -14,9 +14,9 @@ title: معماری MobileNetsو Xception (بخش اول)
 
 متد های زیادی برای ایجاد این چنین شبکه هایی وجود دارند، اما میتوان آنها را به دو بخش عمده تقسیم کرد: 
 1-	کاهش تعداد پارامتر ها با ابداع ساختار جدید لایه کانولوشن 
-به عنوان مثال متد هایی که در مقاله های GoogLeNet(https://arxiv.org/abs/1409.4842)   ، ResNet(https://arxiv.org/abs/1512.03385)، SqueezeNet (https://arxiv.org/abs/1602.07360)، MobileNets (https://arxiv.org/abs/1704.04861) ،Xception (https://arxiv.org/abs/1704.04861) و (https://arxiv.org/pdf/1707.01083.pdf)ShuffleNetمعرفی شدند.
+به عنوان مثال متد هایی که در مقاله های [GoogLeNet](https://arxiv.org/abs/1409.4842)،[ResNet](https://arxiv.org/abs/1512.03385)، [SqueezeNet](https://arxiv.org/abs/1602.07360)،[MobileNets](https://arxiv.org/abs/1704.04861) ،[Xception] (https://arxiv.org/abs/1704.04861) و[ShuffleNet](https://arxiv.org/pdf/1707.01083.pdf)معرفی شدند.
 2-	فشرده سازی پارامتر ها
-به عنوان مثال میتوان به مقاله های مثل BinaryConnect(https://arxiv.org/abs/1511.00363)، Binarized Neural Networks(https://arxiv.org/abs/1602.02830)، EIE(https://arxiv.org/abs/1602.01528)، Deep Compression(https://arxiv.org/abs/1510.00149) و Compressing Deep Convolutional Networks using Vector Quantization(https://arxiv.org/abs/1412.6115) اشاره کرد.
+به عنوان مثال میتوان به مقاله های مثل [BinaryConnect](https://arxiv.org/abs/1511.00363)،[Binarized Neural Networks](https://arxiv.org/abs/1602.02830)،[EIE](https://arxiv.org/abs/1602.01528)،[Deep Compression](https://arxiv.org/abs/1510.00149) و [Compressing Deep Convolutional Networks using Vector Quantization](https://arxiv.org/abs/1412.6115) اشاره کرد.
 
 در واقع مقالات زیادی در چند اخیر در این زمینه منتشر شده است که تعدادی از آنها را به عنوان مرجع در بالا آوردم.
 
