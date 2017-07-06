@@ -62,11 +62,11 @@ title: معماری MobileNets و Xception -بخش اول-
 
 دو مقاله Xception و MobileNets از این عملیات به جای کانولوشن معمولی استفاده میکنند.بیایید نگاهی به این دو معماری بیندازیم.
 
-معماری Xception
+**معماری Xception**
 
 ![_config.yml]({{ site.baseurl }}/images/9/6.png)
 
-معماری MobileNet
+**معماری MobileNet**
 
 ![_config.yml]({{ site.baseurl }}/images/9/7.png)
 
@@ -87,7 +87,7 @@ depthwise->batch normalization->ReLU->pointwise->batch normalization->ReLU
 ReLU->depthwise->pointwise->batch normalization->ReLU->depthwise->pointwise->batch normalization->ReLU->depthwise->pointwise->batch normalization+identity mapping
 ```
 
-اما تفاوت عمده:
+**اما تفاوت عمده:**
 
 ماژول Xception  دارای مفهمومی بنام skip connection است که اولین بار در معماری ResNet معرفی شد. 
 
