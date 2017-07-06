@@ -2,6 +2,7 @@
 layout: post
 title: معماری MobileNets و Xception -بخش اول-
 ---
+$$10$$
 مقاله ای که اخیرا توسط گوگل منتشر شد یک معماری جدید است به نام MobileNets که برای [سیستم هایی تعبیه شده](https://en.wikipedia.org/wiki/Embedded_system) مثل موبایل بهینه سازی شده است. در هسته اصلی این معماری از کانولوشن بر حسب کانال تفکیک پذیر (depthwise separable convolution) برای ساخت یک شبکه عصبی سبک استفاده شده است .
 
 من همیشه به شبکه های عصبی کانولوشنال سبک (lightweight) علاقه مند بودم، چند روز پیش تصمیم گرفتم که مقاله [MobileNets](https://arxiv.org/abs/1704.04861) را مطالعه کنم اما در میانه راه مجبور شدم مقاله [Xception](https://arxiv.org/abs/1610.02357) ، که توسط François Chollet (نویسنده [کتابخانه متن باز شبکه عصبی کراس](https://en.wikipedia.org/wiki/Keras) و موسس [Wysp](https://www.wysp.ws/) که یک پلت‌فرم برای هنرمندان است) منتشر شده است، را بخوانم . این پست در واقع جمع بندی این دو مقاله است.
