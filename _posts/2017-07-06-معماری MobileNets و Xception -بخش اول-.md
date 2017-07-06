@@ -101,6 +101,6 @@ tf.nn.separable_conv2d(input, depthwise_filter, pointwise_filter, strides, paddi
 
 در پایان نکات جالبی است که در مقاله قید نشده است را برایتان بازگو میکنم :
 
-این متد اولین بار توسط دکتر Laurent Sifre در سال 2013 کشف شد و در معماری الکس نت اعمال شد اما در این مقاله چیزی در این باره قید نشده است! به عنوان مرجع [فصل ششم،بخش دوم پایان نامه دکترا ایشان](http://www.di.ens.fr/data/publications/papers/phd_sifre.pdf) را مطالعه کنید. این متد همچنین در کنفرانس [ICLR 2014](https://sites.google.com/site/representationlearning2014/) توسط [Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhoucke.html) شرح داده شد . برای جزییات بیشتر دقیقه 20 [این ویدیو](https://youtu.be/VhLe-u0M1a8?t=1213) را ببینید
+این متد اولین بار توسط دکتر Laurent Sifre در سال 2013 پیشنهاد داده شد و در معماری الکس نت اعمال شد اما در این مقاله چیزی در این باره قید نشده است! به عنوان مرجع [فصل ششم،بخش دوم پایان نامه دکترا ایشان](http://www.di.ens.fr/data/publications/papers/phd_sifre.pdf) را مطالعه کنید. این متد همچنین در کنفرانس [ICLR 2014](https://sites.google.com/site/representationlearning2014/) توسط [Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhoucke.html) شرح داده شد . برای جزییات بیشتر دقیقه 20 [این ویدیو](https://youtu.be/VhLe-u0M1a8?t=1213) را ببینید
 
 ![_config.yml]({{ site.baseurl }}/images/9/9.png)
