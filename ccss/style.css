@@ -10,6 +10,11 @@
     font-style:normal;
 	font-weight:normal;
 }
+
+.highlighter-rouge{
+	background-color: beige;
+    font-weight: bold;
+}
 .post-meta {
     direction: ltr;
 }
