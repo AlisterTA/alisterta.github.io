@@ -21,6 +21,7 @@
     background-color: #e0e0e0;
     border-left-style: none;
     border-radius: .2em;
+	    font-family: tahoma;
 }
 .TagList{
 	    display: inline-flex;
