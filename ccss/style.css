@@ -11,6 +11,22 @@
 	font-weight:normal;
 }
 
+.TagList__item{
+	display: flex;
+    padding: .2em .6em;
+    margin: 0 1em .5em .5em;
+    line-height: 1;
+    color: #444;
+    cursor: pointer;
+    background-color: #e0e0e0;
+    border-left-style: none;
+    border-radius: .2em;
+}
+.TagList{
+	    display: inline-flex;
+    flex-wrap: wrap;
+    font-size: 12px;
+}
 .highlighter-rouge{
 	font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
     background-color: #eff0f1;
