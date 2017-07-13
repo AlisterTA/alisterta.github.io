@@ -34,7 +34,7 @@ tags: [ResNet,Microsoft,کانولوشن]
 
 آفزایش زمان آموزش شبکه با عمقتر شدن شبکه : زمان Forward pass و  backward pass به صورت خطی با افزایش عمق شبکه افزایش پیدا میکنند. حتی در یک کامپیوتر مدرن امروزی یا چندین GPU پیشرفته مدلی 152 لایه ای ResNet نیاز به چند هفته برای آموزش بر روی پایگاه داده Imagenet دارد.
 
-**شبکه های عصبی عمیق Residual **
+**شبکه های عصبی عمیق Residual**
 
 شبکه عصبی عمیق Residual  یکی از جذاب ترین شبکه هایی است که اولین بار توسط تعدادی از محققین [مؤسسه تحقیقاتی مایکروسافت](https://en.wikipedia.org/wiki/Microsoft_Research) ارایه شد.این مدل در رقابت  [ILSVRC 2015](http://image-net.org/challenges/LSVRC/2015/) در جایگاه اول قرار گرفت.شبکه ای که توسط این محققین ارایه شد شامل 152 لایه بود و نسبت به شبکه VGG  8 بار عمیق تر بود. به قول  [Jurgen Schmidhuber](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber) این شبکه مشابه یک شبکه LSTM بدون گیت است . اگر شما به شکل زیر (یک نود [LSTM](http://people.idsia.ch/~juergen/microsoft-wins-imagenet-through-feedforward-LSTM-without-gates.html) توجه کنید این گفته دقیق به نظر میرسد!
  
@@ -54,7 +54,7 @@ tags: [ResNet,Microsoft,کانولوشن]
 
 ![_config.yml]({{ site.baseurl }}/images/12/5.png)
 
-**شبکه های عصبی عمیق با عمق تصادفی **
+**شبکه های عصبی عمیق با عمق تصادفی**
 
 ایده این مقاله در واقع مشابه عملیات Dropout است که در ابتدای پست توضیح داده شد. در این متد تعدادی از لایه ها به صورت تصادفی در هر minibatch حذف میشود.
 
