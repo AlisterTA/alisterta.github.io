@@ -4,7 +4,7 @@ title: سال 2016 در یک نگاه- شبکه های عصبی عمیق با ع
 tags: [ResNet,DenseNet,FractalNet,ROR,کانولوشن]
 ---
 شبکه های Residual امروزه مورد توجه بسیاری از محققین داده قرار گرفته است به طوری که بعد از معرفی آنها، معماری های مختلفی بر مبنای این شبکه ها ارائه شدند، 
-به طور مثال میتوان به (https://arxiv.org/abs/1605.07146)Wide ResNet،(https://arxiv.org/abs/1603.08029)ResNet in ResNet،(https://arxiv.org/abs/1603.09382)Stochastic Depth ResNet وغیره اشاره کرد وتصور برخی از محققین این است که برای داشتن یک شبکه خیلی عمیق نیاز است که حتما از ساختار Residual  استفاده کرد.
+به طور مثال میتوان به [Wide ResNet](https://arxiv.org/abs/1605.07146)،[ResNet in ResNet](https://arxiv.org/abs/1603.08029)،[Stochastic Depth ResNet](https://arxiv.org/abs/1603.09382) وغیره اشاره کرد وتصور برخی از محققین این است که برای داشتن یک شبکه خیلی عمیق نیاز است که حتما از ساختار Residual  استفاده کرد.
 
 مقاله دوم: [شبکه فرکتال]( https://arxiv.org/abs/1605.07648)(شبکه های خیلی عمیق بدون بلاک Residual)
 
