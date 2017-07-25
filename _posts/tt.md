@@ -1,7 +1,7 @@
 ---
 layout: post
-title: سال 2016 در یک نگاه- شبکه های عصبی LSTM  و RNN -بخش سوم
-tags: [RNN,LSTM,BPTT]
+title: سال 2016 در یک نگاه- Pixel Recurrent Neural Networks-بخش چهارم
+tags: [RNN,LSTM,PixelCNN,PixelRNN]
 ---
 پست امروز به generative models  اختصاص دارد به همین منظور ابتدا یه سری مقدمه و تاریخچه را با هم مرور می‌کنیم ، سپس متدهای رایج را به صورت خلاصه بررسی خواهیم کرد و در انتها به بررسی مقاله [PixelRNN](https://arxiv.org/abs/1601.06759) خواهیم پرداخت که به عنوان بهترین  مقاله [ICML 2016](http://icml.cc/2016/?page_id=2009) انتخاب شد.
 
