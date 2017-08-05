@@ -1,7 +1,7 @@
 ---
 layout: post
-title: سال 2016 در یک نگاه-SqueezeNet-بخش پنجم
-tags: [SqueezeNet,AlexNet,VGG,NIN]
+title:تنسورفلو-مفاهیم اولیه-هفته اول 
+tags: [tensorflow,placeholder,variable]
 ---
 در این پست مفاهیم اولیه تنسورفلو مورد بررسی قرار خواهد گرفت . در پایان این پست شما موارد زیر را فرا خواهید گرفت:
 
