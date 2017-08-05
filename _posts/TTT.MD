@@ -484,7 +484,9 @@ print(iris.data[0])
 print(set(iris.target))
 ```
 
- (https://raw.githubusercontent.com/nfmcclure/tensorflow_cookbook/master/01_Introduction/07_Working_with_Data_Sources/birthweight_data/birthweight.dat)Birth weight data: اینپایگاه دانش یکی از پایگاه های دانش دانشگاه ماساچوست در امهرست است که شامل اطلاعات مربوط به وزن کودکان در ابتدای تولد آنها و... است . برای دسترسی به این داده ها در پایتون به شکل زیر عمل میکنیم:
+[Birth weight data]( (https://raw.githubusercontent.com/nfmcclure/tensorflow_cookbook/master/01_Introduction/07_Working_with_Data_Sources/birthweight_data/birthweight.dat)):
+
+ اینپایگاه دانش یکی از پایگاه های دانش دانشگاه ماساچوست در امهرست است که شامل اطلاعات مربوط به وزن کودکان در ابتدای تولد آنها و... است . برای دسترسی به این داده ها در پایتون به شکل زیر عمل میکنیم:
 
 ```python
 import requests
@@ -497,7 +499,9 @@ print(len(birth_data))
 print(len(birth_data[0]))
 ```
 
-Boston Housing data(https://archive.ics.uci.edu/ml/datasets/Housing): این پایگاه دانش شامل اطلاعات مربوط به مسکن است. برای دسترسی به این داده ها در پایتون به شکل زیر عمیل میکنیم:
+[Boston Housing data](https://archive.ics.uci.edu/ml/datasets/Housing):
+
+این پایگاه دانش شامل اطلاعات مربوط به مسکن است. برای دسترسی به این داده ها در پایتون به شکل زیر عمیل میکنیم:
 
 ```python
 import requests
@@ -509,7 +513,7 @@ print(len(housing_data))
 print(len(housing_data[0]))
 ```
 
- پایگاه دانش ارقام دست نویس MNIST(http://yann.lecun.com/exdb/mnist/): این پایگاه دانش شامل 70000 عکس از اعداد دستنویس 0 تا 9 است که 60000 آنها مربوط به دسته آموزش و مابقی آنها برای آزمایش استفاده میشود. از این پاپگاه دانش به صورت فراروان در بازشناسی عکس استفاده میشود، به همین علت، تنسورفلو این پایگاه دانش را به صورت یک تابع تعبیه شده در درون خود قرار داده است.برای دسترسی به این پایگاه دانش از کد زیر میتوان استفاده کرد:
+ پایگاه دانش ارقام دست نویس [MNIST](http://yann.lecun.com/exdb/mnist/): این پایگاه دانش شامل 70000 عکس از اعداد دستنویس 0 تا 9 است که 60000 آنها مربوط به دسته آموزش و مابقی آنها برای آزمایش استفاده میشود. از این پاپگاه دانش به صورت فراروان در بازشناسی عکس استفاده میشود، به همین علت، تنسورفلو این پایگاه دانش را به صورت یک تابع تعبیه شده در درون خود قرار داده است.برای دسترسی به این پایگاه دانش از کد زیر میتوان استفاده کرد:
 
 ```python
 from tensorflow.examples.tutorials.mnist 
@@ -520,7 +524,9 @@ print(len(mnist.validation.images))
 print(mnist.train.labels[1,:]) 
 ```
 
-Spam-ham text data(https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection):  کتابخانه یادگیری ماشینی دانشگاه کالیفرنیا پایگاه دانشی به نام spam-ham text دارد . برای دسترسی به این پایگاه دانش میتوان از کد زیر استفاده کرد:
+[Spam-ham text data](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection):
+
+کتابخانه یادگیری ماشینی دانشگاه کالیفرنیا پایگاه دانشی به نام spam-ham text دارد . برای دسترسی به این پایگاه دانش میتوان از کد زیر استفاده کرد:
 
 ```python
 import requests
@@ -542,7 +548,9 @@ print(set(text_data_target))
 print(text_data_train[1])
  ```
  
-Movie review data(http://www.cs.cornell.edu/people/pabo/movie-review-data/):در این پایگاه دانش اطلاعات اطلاعات مربوط به بررسی فیلم ها قرار گرفته است که به دو کلاس خوب و بد تقسیم میشوند.برای دسترسی به این پایگاه داده از کد زیر میتوان استفاده کرد:
+[Movie review data](http://www.cs.cornell.edu/people/pabo/movie-review-data/):
+
+در این پایگاه دانش اطلاعات اطلاعات مربوط به بررسی فیلم ها قرار گرفته است که به دو کلاس خوب و بد تقسیم میشوند.برای دسترسی به این پایگاه داده از کد زیر میتوان استفاده کرد:
 
 ```python
 import requests
@@ -577,9 +585,13 @@ print(len(neg_data))
 print(neg_data[0])
 ```
 
- (https://www.cs.toronto.edu/~kriz/cifar.html)CIFAR-10: این پایگاه دانش حاوی 60000 عکس (32x32)است که در 10 کلاس طبقه بندی شده اند و از این تعداد 50000 مربوط به مجموعه آموزش و 10000 آن برای مجموعه آزمایش است. با توجه به اینکه حجم این پایگاه دانش نسبتا زیاد است و ما به صورت فراوان از آن استفاده خواهیم کرد شما میتوانید این پایگاه داده را از طریق این لینک (https://www.cs.toronto.edu/~kriz/cifar.html) دانلود کنید.طریقه استفاده از این دیتا بیس در پست های بعدی شرح داده خواهد شد.
+[CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html):
 
-The works of Shakespeare text data: این پایگاه دانش نسخه الکترونیکی کارهای ویلیام شکسپیر است. برای استفاده از این پایگاه دانش میتوان از کد زیر استفاده کرد:
+این پایگاه دانش حاوی 60000 عکس (32x32)است که در 10 کلاس طبقه بندی شده اند و از این تعداد 50000 مربوط به مجموعه آموزش و 10000 آن برای مجموعه آزمایش است. با توجه به اینکه حجم این پایگاه دانش نسبتا زیاد است و ما به صورت فراوان از آن استفاده خواهیم کرد شما میتوانید این پایگاه داده را از طریق [این لینک](https://www.cs.toronto.edu/~kriz/cifar.html) دانلود کنید.طریقه استفاده از این دیتا بیس در پست های بعدی شرح داده خواهد شد.
+
+The works of Shakespeare text data:
+
+این پایگاه دانش نسخه الکترونیکی کارهای ویلیام شکسپیر است. برای استفاده از این پایگاه دانش میتوان از کد زیر استفاده کرد:
 
 ```python
 # The Works of Shakespeare Data
@@ -595,7 +607,9 @@ shakespeare_text = shakespeare_text[7675:]
 print(len(shakespeare_text))
 ```
 
- (http://www.manythings.org/corpus/about.html#info)English-German sentence translation data:وب سایت tatoeba (http://tatoeba.org/) ترجمه جملات به زبان های مختلف را جمع آوری میکند.این اطلاعات تحت مجوز کرییتیو کامنز(https://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%88%D8%B2_%DA%A9%D8%B1%DB%8C%DB%8C%D8%AA%DB%8C%D9%88_%DA%A9%D8%A7%D9%85%D9%86%D8%B2) منتشر شده اند. همچنین وب سایت ManyThings(http://www.manythings.org/) ترجمه جمله به جمله در قالب فایل متنی برای زبان های مختلف را منتشر کرده است. این داده ها قابل دانلود هستند.در مثال زیر از پایگاه دانش آلمانی –انگلیسی استفاده شده است، اما شما بنا به نیاز میتوانید URL را عوض کنید:)  برای زبان فارسی-انگلیسی میتوانید از این (http://www.manythings.org/anki/pes-eng.zip)URL استفاده کنید)
+ [English-German sentence translation data](http://www.manythings.org/corpus/about.html#info):
+ 
+ وب سایت [tatoeba](http://tatoeba.org/) ترجمه جملات به زبان های مختلف را جمع آوری میکند.این اطلاعات تحت [مجوز کرییتیو کامنز](https://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%88%D8%B2_%DA%A9%D8%B1%DB%8C%DB%8C%D8%AA%DB%8C%D9%88_%DA%A9%D8%A7%D9%85%D9%86%D8%B2) منتشر شده اند. همچنین وب سایت [ManyThings](http://www.manythings.org/) ترجمه جمله به جمله در قالب فایل متنی برای زبان های مختلف را منتشر کرده است. این داده ها قابل دانلود هستند.در مثال زیر از پایگاه دانش آلمانی –انگلیسی استفاده شده است، اما شما بنا به نیاز میتوانید URL را عوض کنید:)  برای زبان فارسی-انگلیسی میتوانید از این [URL](http://www.manythings.org/anki/pes-eng.zip) استفاده کنید)
 
 ```python
 # English-German Sentence Translation Data
@@ -617,13 +631,14 @@ print(len(german_sentence))
 print(eng_ger_data[10])
 ```
 سخن پایانی :
-تمامی کد های استفاده شده در این پست در این لینک (https://github.com/nfmcclure/tensorflow_cookbook) قرار گرفته شده است. همچنین مستندات رسمی تنسورفلو در این لینک(https://www.tensorflow.org/api_docs/python) قرار گرفته است که در صورت نیاز میتوانید از آن استفاده کنید. در نسخه های جدیدتر، تنسورفلو تغییرات جزیی داشته است. همچنین در وبسایت تنسورفلو آموزش های متععدی وجود دارد که در صورت تمایل میتوانید آنها را در این لینک(https://www.tensorflow.org/tutorials/index.html) دنبال کنید. 
-تنسورفلو همچنین محلی برای کار با شبکه های عصبی دارد که شما میتوانید به صورت بصری یک شبکه عصبی با تغییر دادن پارامتر ها آموزش دهید. این لینک (http://playground.tensorflow.org/) را چک کنید.
 
-سوالات فراوانی در وب سایت stackoverflow(http://stackoverflow.com/questions/tagged/Tensorflow) (برچسب Tensorflow)پرسیده شده است که محلی عالی برای جستجوی سوالات مشابه میباشد.
+تمامی کد های استفاده شده در این پست در [این لینک](https://github.com/nfmcclure/tensorflow_cookbook) قرار گرفته شده است. همچنین مستندات رسمی تنسورفلو در [این لینک](https://www.tensorflow.org/api_docs/python) قرار گرفته است که در صورت نیاز میتوانید از آن استفاده کنید. در نسخه های جدیدتر، تنسورفلو تغییرات جزیی داشته است. همچنین در وبسایت تنسورفلو آموزش های متععدی وجود دارد که در صورت تمایل میتوانید آنها را در [این لینک](https://www.tensorflow.org/tutorials/index.html) دنبال کنید. 
+تنسورفلو همچنین محلی برای کار با شبکه های عصبی دارد که شما میتوانید به صورت بصری یک شبکه عصبی با تغییر دادن پارامتر ها آموزش دهید. [این لینک](http://playground.tensorflow.org/) را چک کنید.
+
+سوالات فراوانی در وب سایت [stackoverflow](http://stackoverflow.com/questions/tagged/Tensorflow) (برچسب Tensorflow)پرسیده شده است که محلی عالی برای جستجوی سوالات مشابه میباشد.
 
 هرچند تنسورفلو خیلی انعطاق پذیر است و شما میتوانید کارهای بسیار زیادی با آن انجام دهید، اما استفاده رایج آن در یادگیری عمیق است.
 
-تنسورفلو همچنین دارای یک داکر (https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%DA%A9%D8%B1) عمومی است که جدید ترین نسخه تنسورفلو در آن قرار گرفته است که در این لینک(https://hub.docker.com/r/tensorflow/tensorflow/) قرار گرفته است.
+تنسورفلو همچنین دارای یک [داکر](https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%DA%A9%D8%B1) عمومی است که جدید ترین نسخه تنسورفلو در آن قرار گرفته است که در [این لینک](https://hub.docker.com/r/tensorflow/tensorflow/) قرار گرفته است.
 
-همچنین یک نسخه ماشین مجازی قابل دانلود تنسورفلو که بر روی سیتم عامل لینوکس Ubuntu 15.04 قرار گرفته است را میتوانید از این لینک (https://docs.google.com/forms/d/1mUztUlK6_z31BbMW5ihXaYHlhBcbDd94mERe-8XHyoI/viewform) دانلود کنید.حجم این فایل دو گیگا بایت است که برای اجرای آن نیاز به نرم افزار (https://www.vmware.com/go/downloadplayer/)VMware Player دارید.
+همچنین یک نسخه ماشین مجازی قابل دانلود تنسورفلو که بر روی سیتم عامل لینوکس Ubuntu 15.04 قرار گرفته است را میتوانید از این لینک [دانلود](https://docs.google.com/forms/d/1mUztUlK6_z31BbMW5ihXaYHlhBcbDd94mERe-8XHyoI/viewform) کنید.حجم این فایل دو گیگا بایت است که برای اجرای آن نیاز به نرم افزار [VMware Player](https://www.vmware.com/go/downloadplayer/) دارید.
