@@ -64,7 +64,11 @@ with tf.Session(graph=graph) as session:
 ...  
 session.run(...)  
 ...
+```
+
  راه دیگر برای مقدار دهی اولیه گراف استفاده از کد زیر است:
+ 
+```python
 session = tf.Session(graph=graph)
 session.run(…)
 ```
