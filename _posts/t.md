@@ -46,9 +46,13 @@ tags: [Andrew Ng,Deeplearning,Course]
 برای ثبت نام به صورت Audit بایستی به صورت جداگانه هر کدام از کورس های زیر را باز کنید و ثبت نام کنید:
 
 [شبکه های عصبی و یادگیری عمیق](https://www.class-central.com/mooc/9058/coursera-neural-networks-and-deep-learning)
+
 [بهبود شبکه های عمیق عصبی](https://www.class-central.com/mooc/9058/coursera-neural-networks-and-deep-learning):Hyperparameter tuning, Regularization, and Optimization
+
 [ساختاربندی پروژه های یادگیری ماشینی](https://www.class-central.com/mooc/9056/coursera-structuring-machine-learning-projects)
+
 [شبکه های عصبی کانولوشنال](https://www.coursera.org/learn/convolutional-neural-networks?siteID=SAyYsTvLiGQ-9prAsIXIYbnGVgJ7JJjHaA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+
 [مدل های بازگشتی و ترتیبی مثل LSTM و RNN](https://www.coursera.org/learn/nlp-sequence-models?siteID=SAyYsTvLiGQ-aM9MvWp06xPZ4smKB5HpVA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
  
 بعد از باز کردن هر کدام از لینک های بالا در سایت دو گزینه Enroll در بالا و پایین سایت وجود دارد. در صورتی که بر روی لینک Enroll که در پایین صفحه قرار گرفته است کلیک کنید صفحه زیر برای شما نمایش داده خواهد شد. با کلیک بر روی گزینه مشخص شده میتوانید به ویدیو ها و تمرین های آن کورس دسترسی پیدا کنید:
