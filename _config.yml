@@ -54,7 +54,7 @@ permalink:          /:year-:month-:day/:title/
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-paginate:           5
+paginate:           4
 paginate_path:      /page:num/
 
 # The release of Jekyll Now that you're using
@@ -86,4 +86,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-show_drafts: false
