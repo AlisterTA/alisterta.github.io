@@ -85,9 +85,7 @@ tags: [NIPS]
 
 هوش مصنوعی ، بخش عظیمی از "هوشمندیش" رو مدیون  یودیا پرل هست. در دهه 80 ، تلاش های ایشون باعث شد ماشین ها بتوانند به صورت احتمالی استدلال کنند و هم اکنون ایشان به یکی از منتقدین تند و تیز این زمینه تبدیل شده. در آخرین کتابشون [The Book of Why](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)"علم جدید علت و معلول" ، استدلال میکنه که هوش مصنوعی به علت درک ناقص ما از "ماهیت هوش" عاجز مانده است.چند ماه پیش، پرل مقاله ای در این زمینه در آرکایو منتشر کرد که به محدودیت های یادگیری ماشینی میپردازه.
 
-<div name="English Contents" style="direction:ltr; text-align: left;">
 [Theoretical Impediments to Machine Learning With Seven Sparks from the causal revolution](https://arxiv.org/abs/1801.04016)
-</div>
 
 ![_config.yml]({{ site.baseurl }}/images/21/3.jpg)
 
