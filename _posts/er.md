@@ -1,10 +1,10 @@
-معلم ریاضی درس جدید را شرا‌ع کرد و بدون مقدمه شرا‌ع به نوشتن فرمول کرد، اما من پافشاری کردم که قبل از ارائه فرمول فلسفه آن را شرح دهد، بعد از کمی کش مکش مجبور شدم کلاس را ترک کنیم. 
+معلم ریاضی درس جدید رو شرو‌ع کرد و بدون مقدمه شرو‌ع به نوشتن فرمول کرد، اما من پافشاری کردم که قبل از ارائه فرمول فلسفه آن را شرح دهد، بعد از کمی کش‌مکش مجبور شدم کلاس را ترک کنیم. 
 
-در علم منطق دو مفهوم اساسی وجود داره: یک) منطق تصورات که با تعارف سرا‌کار داره دو)  منطق تصدیق یا استدلال (منطق علمیه که روش کلان تفکر را‌ به انسان میآموزه). من فلسفه را‌ به عنوان تعریف مفاهیم میشناسم و تصدیق را‌ به عنوان تبدیل تصورات به را‌ابط ریاضی. یکی از مشکلاتی بزرگی که من به اون در این کلاس بهش خورد گرفتم این بود که قبل از ارایه هر علم باید فلسفه آن شرح داده شه. درسته مطالعه علم منجر به تولید دانش میشه اما فلسفه به ما بینش میده.
+در علم منطق دو مفهوم اساسی وجود داره: یک) منطق تصورات که با تعارف سرا‌کار داره دو)  منطق تصدیق یا استدلال (منطق علمیه که روش کلان تفکر را‌ به انسان میآموزه). من فلسفه را‌ به عنوان تعریف مفاهیم میشناسم و تصدیق را‌ به عنوان تبدیل تصورات به رو‌ابط ریاضی. یکی از مشکلاتی بزرگی که من به اون در این کلاس بهش خورده گرفتم این بود که قبل از ارایه هر علم باید فلسفه آن شرح داده شه. درسته مطالعه علم منجر به تولید دانش میشه اما فلسفه به ما بینش میده.
 
-به نظر من فلسه به دو علت مهمه :
+به نظر من فلسفه به دو علت مهمه :
 
-1)	فلسفه میتونه کمک بسزایی به ما در پرا‌راندن قدرت انتقادیمان کنه 2) روش خوبیست برای یادگرفتن چیزهای خاص است. در این پست سعی دارم یکی از مفاهیم موجود در یادگیری ماشین که زیاد باهاش سرا‌کار داریم به نام ]بیش‌برارزش[(https://en.wikipedia.org/wiki/Overfitting)  که من دوست دارم اون را‌ "پرستش داده" نام گذاری کنم، بپردازم و نشون بدم که داشتن یک دیگاه فلسفی چقدر میتونه ما را‌ در شرح مسایل کمک کنه. نوشتن این مطلب وقت زیادی را از من گرفت، و مطمینا خالی از اشکال نیست، لطفا با تامل بخوانید و نظراتتون را‌ از طریق توییر با من در میان بگذارید.
+1)	فلسفه میتونه کمک بسزایی به ما در پرو‌راندن قدرت انتقادیمان کنه 2) روش خوبیست برای یادگرفتن چیزهای خاص است. در این پست سعی دارم یکی از مفاهیم موجود در یادگیری ماشین که زیاد باهاش سرا‌کار داریم به نام ]بیش‌برارزش[(https://en.wikipedia.org/wiki/Overfitting)  که من دوست دارم اون را‌ "پرستش داده" نام گذاری کنم، بپردازم و نشون بدم که داشتن یک دیگاه فلسفی چقدر میتونه ما را‌ در شرح مسایل کمک کنه. نوشتن این مطلب وقت زیادی را از من گرفت، و مطمینا خالی از اشکال نیست، لطفا با تامل بخوانید و نظراتتون را‌ از طریق توییر با من در میان بگذارید.
 
 **چه وقت کمتر فکر کنیم!**
 
@@ -237,57 +237,58 @@ Q.E.D مخفف quod erat demonstrandum است که در ریاضی معمولا 
 
 منابع
 
-[1][The Correspondence of Charles Darwin, Volume 2: 1837-1843]( https://www.amazon.com/Correspondence-Charles-Darwin-1837 1843/dp/0521255880)
+(1)[The Correspondence of Charles Darwin, Volume 2: 1837-1843](https://www.amazon.com/Correspondence-Charles-Darwin-1837 1843/dp/0521255880)
 
-[2][From Benjamin Franklin to Joseph Priestley, 19 September 1772](https://founders.archives.gov/documents/Franklin/01-19-02-0200)
+(2)[From Benjamin Franklin to Joseph Priestley, 19 September 1772](https://founders.archives.gov/documents/Franklin/01-19-02-0200)
 
-[3][Reexamining adaptation and the set point model of happiness: Reactions to changes in marital status.](http://psycnet.apa.org/record/2003-01588-009)
+(3)[Reexamining adaptation and the set point model of happiness: Reactions to changes in marital status.](http://psycnet.apa.org/record/2003-01588-009)
 
-[4][Thou shalt not make unto thee any graven image](https://en.wikipedia.org/wiki/Thou_shalt_not_make_unto_thee_any_graven_image)
+(4)[Thou shalt not make unto thee any graven image](https://en.wikipedia.org/wiki/Thou_shalt_not_make_unto_thee_any_graven_image)
 
-[5][Kings 18:4]( https://biblehub.com/2_kings/18-4.htm)
+(5)[Kings 18:4]( https://biblehub.com/2_kings/18-4.htm)
 
-[6][ Stumbling on Happiness by Daniel Gilbert](https://www.randomhouse.com/kvpa/gilbert/excerpts.html)
+(6])[ Stumbling on Happiness by Daniel Gilbert](https://www.randomhouse.com/kvpa/gilbert/excerpts.html)
 
-[7][ Epee 2.0: The Birth Of The New Fencing Paradigm](https://www.amazon.com/Epee-2-0-Birth-Fencing-Paradigm/dp/0978902211)
+(7)[ Epee 2.0: The Birth Of The New Fencing Paradigm](https://www.amazon.com/Epee-2-0-Birth-Fencing-Paradigm/dp/0978902211)
 
-[8][The Lost Steve Jobs Tapes]( https://www.fastcompany.com/1826869/lost-steve-jobs-tapes)
+(8)[The Lost Steve Jobs Tapes]( https://www.fastcompany.com/1826869/lost-steve-jobs-tapes)
 
-[9][How to Start a Startup](http://startupclass.samaltman.com/courses/lec01/)
+(9)[How to Start a Startup](http://startupclass.samaltman.com/courses/lec01/)
 
-[10][5 Avinash Kaushik blogs every digital marketer should read](https://medium.com/@caliberi/5-avinash-kaushik-blogs-every-digital-marketer-should-read-5af19c442177)
+(10)[5 Avinash Kaushik blogs every digital marketer should read](https://medium.com/@caliberi/5-avinash-kaushik-blogs-every-digital-marketer-should-read-5af19c442177)
 
-[11][How to Use a Shooting Range](https://www.wikihow.com/Use-a-Shooting-Range)
+(11)[How to Use a Shooting Range](https://www.wikihow.com/Use-a-Shooting-Range)
 
-[12][Fighter's Fact Book 2](https://ymaa.com/sites/default/files/book/sample/FightersFactBook2.9781594394836.pdf)
+(12)[Fighter's Fact Book 2](https://ymaa.com/sites/default/files/book/sample/FightersFactBook2.9781594394836.pdf)
 
-[13][Training Scars](http://www.activeresponsetraining.net/training-scars)
+(13)[Training Scars](http://www.activeresponsetraining.net/training-scars)
 
-[14] [Too many teachers 'teaching to the test'](https://www.theguardian.com/education/2006/jul/20/schools.uk5)
+(14)[Too many teachers 'teaching to the test'](https://www.theguardian.com/education/2006/jul/20/schools.uk5)
 
-[15][ Canaries in the Coal Mines](http://theotherfoundation.org/canaries-in-the-coal-mines/)
+(15)[ Canaries in the Coal Mines](http://theotherfoundation.org/canaries-in-the-coal-mines/)
 
-[16][ Occam’s Razor](http://philosophyterms.com/occams-razor)
+(16)[ Occam’s Razor](http://philosophyterms.com/occams-razor)
 
-[17][Reading the Lasso 1996 paper by Robert Tibshirani](https://www.slideshare.net/xianblog/reading-the-lasso-1996-paper-ny-tibshirani)
+(17)[Reading the Lasso 1996 paper by Robert Tibshirani](https://www.slideshare.net/xianblog/reading-the-lasso-1996-paper-ny-tibshirani)
 
-[18][The Circulation and Energy Metabolism of the Brain](https://academic.oup.com/neurosurgery/article-abstract/9/CN_suppl_1/56/4099131)
+(18)[The Circulation and Energy Metabolism of the Brain](https://academic.oup.com/neurosurgery/article-abstract/9/CN_suppl_1/56/4099131)
 
-[19][Emergence of simple-cell receptive field properties by learning a sparse code for natural images](https://www.ncbi.nlm.nih.gov/pubmed/8637596)
+(19)[Emergence of simple-cell receptive field properties by learning a sparse code for natural images](https://www.ncbi.nlm.nih.gov/pubmed/8637596)
 
-[20][Portfolio Selection: Efficient Diversification of Investments]( https://www.jstor.org/stable/j.ctt1bh4c8h)
-[21][ I split my contributions fifty-fifty b](https://books.google.com/books?id=dSJQn8egXvUC&pg=PA123&lpg=PA123&dq=I+split+my+contributions+fifty-fifty&source=bl&ots=0eIVJHIkVs&sig=gaWji-ZrlquCU8OIw6yjKtzFeDw&hl=en&sa=X&ved=2ahUKEwit_Pu0p9vdAhUxM-wKHV2VDVEQ6AEwAXoECAcQAQ#v=onepage&q=I%20split%20my%20contributions%20fifty-fifty&f=false)
+(20)[Portfolio Selection: Efficient Diversification of Investments]( https://www.jstor.org/stable/j.ctt1bh4c8h)
 
-[22][Homo Heuristicus: Less-is-More Effects in Adaptive Cognition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3629675/)
+(21)[ I split my contributions fifty-fifty b](https://books.google.com/books?id=dSJQn8egXvUC&pg=PA123&lpg=PA123&dq=I+split+my+contributions+fifty-fifty&source=bl&ots=0eIVJHIkVs&sig=gaWji-ZrlquCU8OIw6yjKtzFeDw&hl=en&sa=X&ved=2ahUKEwit_Pu0p9vdAhUxM-wKHV2VDVEQ6AEwAXoECAcQAQ#v=onepage&q=I%20split%20my%20contributions%20fifty-fifty&f=false)
 
-[23][Soy Milk Fades as Americans Opt for Drinkable Almonds](https://www.bloomberg.com/news/articles/2013-08-21/soy-milk-fades-as-americans-opt-for-drinkable-almonds)
+(22)[Homo Heuristicus: Less-is-More Effects in Adaptive Cognition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3629675/)
 
-[24][coconut water seems to have jumped from invisible to unavoidable without a pause in the realm of the vaguely familiar]( https://www.nytimes.com/2014/07/27/business/for-coconut-waters-a-street-fight-for-shelf-space.html)
+(23)[Soy Milk Fades as Americans Opt for Drinkable Almonds](https://www.bloomberg.com/news/articles/2013-08-21/soy-milk-fades-as-americans-opt-for-drinkable-almonds)
 
-[25][Sales of kale soar as celebrity chefs highlight health benefits]( https://www.telegraph.co.uk/foodanddrink/9952031/Sales-of-kale-soar-as-celebrity-chefs-highlight-health-benefits.html)
+(24)[coconut water seems to have jumped from invisible to unavoidable without a pause in the realm of the vaguely familiar]( https://www.nytimes.com/2014/07/27/business/for-coconut-waters-a-street-fight-for-shelf-space.html)
 
-[26][Ask a Neuroscientist: Why does the nervous system decussate?](https://neuroscience.stanford.edu/news/ask-neuroscientist-why-does-nervous-system-decussate)
+(25)[Sales of kale soar as celebrity chefs highlight health benefits]( https://www.telegraph.co.uk/foodanddrink/9952031/Sales-of-kale-soar-as-celebrity-chefs-highlight-health-benefits.html)
 
-[27][Homology: From jaws to ears — an unusual example of a homology](https://evolution.berkeley.edu/evolibrary/article/homology_06)
+(26)[Ask a Neuroscientist: Why does the nervous system decussate?](https://neuroscience.stanford.edu/news/ask-neuroscientist-why-does-nervous-system-decussate)
 
-[28][ The Scary World of Mr Mintzberg]( https://www.theguardian.com/business/2003/jan/26/theobserver.observerbusiness11)
+(27)[Homology: From jaws to ears — an unusual example of a homology](https://evolution.berkeley.edu/evolibrary/article/homology_06)
+
+(28)[ The Scary World of Mr Mintzberg](https://www.theguardian.com/business/2003/jan/26/theobserver.observerbusiness11)
