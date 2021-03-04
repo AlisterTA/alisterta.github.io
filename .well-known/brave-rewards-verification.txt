@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: alisterta.github.io
-Token: 035461ec786a2c7157639bb4062282dd5d0d483200ca910f42117f830a0e4dfc
